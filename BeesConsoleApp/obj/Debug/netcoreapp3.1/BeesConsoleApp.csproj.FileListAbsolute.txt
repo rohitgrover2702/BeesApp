@@ -1,0 +1,13 @@
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.exe
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.deps.json
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.runtimeconfig.json
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.runtimeconfig.dev.json
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.dll
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\bin\Debug\netcoreapp3.1\BeesConsoleApp.pdb
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.csprojAssemblyReference.cache
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.AssemblyInfoInputs.cache
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.AssemblyInfo.cs
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.dll
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.pdb
+C:\Rohit Grover\BeesConsoleApp\BeesConsoleApp\obj\Debug\netcoreapp3.1\BeesConsoleApp.genruntimeconfig.cache
